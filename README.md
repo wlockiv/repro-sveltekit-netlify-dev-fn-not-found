@@ -12,7 +12,7 @@ While using Netlify CLI's local `dev` feature, everything works except POSTing t
 1. Click the "Submit" button in the index (`/`) route.
 1. Error will occur
 
-![Screenshot of Netlify CLI function not found error](/readme-images/2023-08-15 07.24.02.gif)
+![Screenshot of Netlify CLI function not found error](readme-images/2023-08-15 07.24.02.gif)
 
 {% note %}
 
@@ -24,7 +24,7 @@ NOTE: Repeating the last two steps on on the SvelteKit server (`localhost:5173` 
 
 After walking through the reproduction steps, the web browser displays an error: `Function not found...`.
 
-![Reproduction of netlify cli's sveltekit form action error](/readme-images/2023-08-15 07.24.02.gif)
+![Reproduction of netlify cli's sveltekit form action error](readme-images/2023-08-15 07.24.02.gif)
 
 ## What I'm expecting to happen
 
